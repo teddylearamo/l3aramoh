@@ -1,4 +1,4 @@
-📸 Captured Moments
+ 📸 Captured Moments
 
 Captured Moments is a simple photography portfolio website built using HTML and CSS.
 It showcases favorite photos, an about section, and contact information — designed as a personal space to preserve and share memories through photography.
@@ -35,6 +35,7 @@ Captured-Moments/
 
 Clone this repository:
 
+git clone https://github.com/teddylearamo/captured-moments.git
 
 
 Navigate to the project folder:
